@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+h1,h2{
+    font-family:   'Calibri', sans-serif;
+}
+th, td{
+    font-family:   'Calibri', sans-serif;
+    border: 1px solid black;
+    padding: 8px;
+    text-align:center;
+}
+.Color_pal{
+    color: red;
+}
